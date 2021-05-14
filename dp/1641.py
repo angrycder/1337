@@ -1,7 +1,7 @@
-import functools
+from functools import cache
 class Solution:
     def countVowelStrings(self, n: int) -> int:
-        @lru_cache(maxsize = None)
+        @cache
         def helper(prev,n):
             ret = 0
             arr =["a","e","i","o","u"]
