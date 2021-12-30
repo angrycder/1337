@@ -1,0 +1,1 @@
+{"name":"Local: kick","url":"c:\\Users\\pc\\Desktop\\1337\\CP\\kick.cpp","tests":[{"id":1624651094606,"input":"2\n2 4 5\n10 10 100 30\n80 50 10 50\n3 2 3\n80 80\n15 50\n20 10","output":"Case #1: 250\nCase #2: 180"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\pc\\Desktop\\1337\\CP\\kick.cpp","group":"local","local":true}

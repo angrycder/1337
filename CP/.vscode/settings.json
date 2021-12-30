@@ -3,6 +3,19 @@
         "iostream": "cpp",
         "xstring": "cpp",
         "vector": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "xlocale": "cpp",
+        "cmath": "cpp",
+        "cstdlib": "cpp",
+        "list": "cpp",
+        "iomanip": "cpp",
+        "unordered_map": "cpp",
+        "xiosbase": "cpp",
+        "random": "cpp"
     }
 }

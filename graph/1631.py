@@ -1,3 +1,4 @@
+from typing import *
 from heapq import *
 class Solution:
     def minimumEffortPath(self, g: List[List[int]]) -> int:
